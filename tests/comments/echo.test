@@ -1,0 +1,2 @@
+echo # This is a comment echo "Hello world"
+echo # This is also a comment

@@ -1,0 +1,4 @@
+a="coucou"
+b='b'
+
+echo $a a $b b $bb

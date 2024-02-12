@@ -1,0 +1,3 @@
+echo -n "coucou \n :D bang" bang ;
+echo -n coucou coucou coucou;
+echo -n "couc\\n" coucou

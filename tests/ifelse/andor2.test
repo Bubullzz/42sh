@@ -1,0 +1,6 @@
+if false || echo b && false && echo b
+then
+    echo coucou
+else
+    echo uocuoc
+fi

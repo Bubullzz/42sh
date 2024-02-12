@@ -1,0 +1,5 @@
+for i in $*
+do
+    if $1; then
+        echo $1;
+done

@@ -1,0 +1,4 @@
+cat cobaye.txt
+echo coucou
+cat cobaye.txt | echo hello
+cat 'cobaye.txt' | echo

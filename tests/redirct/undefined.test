@@ -1,0 +1,4 @@
+echo coucou > example.txt 1&>5;
+echo coucou > example.txt 1&>couc0ou;
+echo coucou \> example.txt
+cat example.txt

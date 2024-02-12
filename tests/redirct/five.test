@@ -1,0 +1,4 @@
+echo coucou 5> a 5>&1
+echo coucou coucou >> a
+cat a
+ls

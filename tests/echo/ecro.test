@@ -1,0 +1,5 @@
+echo a; ecro b; echo c
+echo a
+echo ";
+echo b;
+

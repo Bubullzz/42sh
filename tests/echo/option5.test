@@ -1,0 +1,4 @@
+echo -n -E -EEEEEe -a coucou
+echo -naE -Ee -a \coucou
+echo \-ne -E -Ee -a coucou;
+echo -neEeE -EEEEEea a aa \ coucou

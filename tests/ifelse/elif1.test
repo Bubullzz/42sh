@@ -1,0 +1,1 @@
+ if false; then echo A; elif false ;then echo B; else echo samarch ;fi 

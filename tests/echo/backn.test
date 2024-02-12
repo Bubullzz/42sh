@@ -1,0 +1,6 @@
+echo test\ntest
+echo "test\ntest"
+echo test "\n" test
+echo 'test\ntest'
+echo test\\test\t\n
+echo -ne coucuou\\test\t\n

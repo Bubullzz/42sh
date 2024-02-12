@@ -1,0 +1,4 @@
+if false; true; echo hehe coucou; then
+echo a
+echo b; echo c;
+fi

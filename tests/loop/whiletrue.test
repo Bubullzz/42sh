@@ -1,0 +1,3 @@
+while true && echo a && false; do
+    echo coucou
+done

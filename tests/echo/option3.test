@@ -1,0 +1,6 @@
+echo -ne
+echo -n \n
+echo -En "coucou \n :D bang" bang ;
+echo -ne coucou coucou coucou;
+echo -neE "couc\\n" coucou
+echo -en coucou coucou coucou;

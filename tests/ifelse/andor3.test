@@ -1,0 +1,1 @@
+if true && true && echo false || false; then echo false; fi

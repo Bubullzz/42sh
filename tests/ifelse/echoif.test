@@ -1,0 +1,4 @@
+echo if
+if echo then if; then
+echo true; else echo else fi
+fi

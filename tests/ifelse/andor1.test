@@ -1,0 +1,4 @@
+if echo a || false;
+then
+    echo b
+fi

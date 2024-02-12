@@ -1,0 +1,3 @@
+echo '$tata'
+tata='toto'; echo \'$tata\'
+echo '$tata' $tata

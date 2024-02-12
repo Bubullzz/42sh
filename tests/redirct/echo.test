@@ -1,0 +1,3 @@
+echo 2>> a
+echo \2> a
+

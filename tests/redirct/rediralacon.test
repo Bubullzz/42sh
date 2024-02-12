@@ -1,0 +1,4 @@
+ls >| example.txt
+echo &< example.txt
+echo coucou <> example.txt
+echo < example.txt

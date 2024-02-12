@@ -1,0 +1,4 @@
+if false
+then true;
+else echo false
+fi

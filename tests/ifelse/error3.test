@@ -1,0 +1,4 @@
+if false;;then
+
+echo else echo coucou
+fi

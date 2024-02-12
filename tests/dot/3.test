@@ -1,0 +1,1 @@
+export PATH=/home/alexandre.masse/; . test.sh; unset PATH; echo $PATH
